@@ -1,0 +1,44 @@
+id,text,link,category
+1,Polina Andreieva,,name
+2,Graphical Designer,,position
+3,andreievapol@gmail.com,,contacts
+4,380502971528,,contacts
+5,"Poltava, Ukraine",,contacts
+6,Telegram,https://t.me/Polina_broflava,contacts
+7,GitHub,https://github.com/polina0407,contacts
+8,Instagram,https://www.instagram.com/poli4k_x/,contacts
+9,TikTok,https://www.tiktok.com/@poli4ka_x?_t=ZM-8vQ0RC53uZp&_r=1,contacts
+10,"A creative graphic designer with a keen eye for detail and the ability to produce effective and visually appealing designs. Experienced in working on various projects, particularly in branding and visual communication. Easily adapts to new challenges and is always focused on results. Values teamwork and is committed to growing professionally in the field of design",,summary
+11,Python3,,skills
+12,OOP,,skills
+13,Kivy,,skills
+14,Pandas,,skills
+15,Matplotlib,,skills
+16,Panda3D,,skills
+17,scikit-learn,,skills
+18,3-D modelling,,skills
+19,2-D design,,skills
+20,Web design,,skills
+21,HTML,,skills
+22,CSS,,skills
+23,Flask,,skills
+24,Adobe Photoshop,,skills
+25,Adobe Illustrator,,skills
+26,Figma,,skills
+27,Test Ruffier,https://github.com/polina0407/ruffier,projects
+28,TokTik Analysis,https://github.com/polina0407/TokTik,projects
+29,Titanic predictions,https://github.com/polina0407/ml,projects
+30,PolinaCraft,https://github.com/polina0407/Polinaacraft-,projects
+31,Completed 9 years of schooling at Poltava Secondary School No. 29,,education
+32,Python Start Course - Logika (2022 - 2024),,education
+33,Python Pro Course - Logika (2024 - 2025),,education
+34,Individual English Course (2024-present),,education
+35,Sviatoslav Pashynskyi Poltava Children's School of Art (2017-2020),,education
+36,Practiced traditional folk dance for 4 years,,achievements
+37,Won over 100 awards in dance battles as part of a team,,achievements
+38,Actively expanding knowledge of the English language,,achievements
+39,Passionate about handicrafts and regularly pursue this hobby,,achievements
+40,Won a prize in a national art competition; my artwork was selected for international exhibition,,achievements
+41,"Graphic designers create visual content to communicate messages. They use typography, imagery, color, and layout techniques to craft designs for print, digital, and social media platforms.",,facts
+42,They collaborate closely with clients and teams to understand project goals and deliver creative solutions that align with brand identity and marketing strategies.,,facts
+43,"Proficiency in design software like Adobe Photoshop, Illustrator, and InDesign is essential. Graphic designers also need strong creativity, attention to detail, and time management skills to meet deadlines.",,facts
